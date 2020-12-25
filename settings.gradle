@@ -1,2 +1,3 @@
 rootProject.name = 'bigquery-sample'
 
+include 'bigquery-select-query','partitioned-tables'

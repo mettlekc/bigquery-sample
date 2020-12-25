@@ -1,11 +1,9 @@
-package com.cheol.gcp;
-
 import com.google.cloud.bigquery.*;
 
 public class CreatePartitionedTable {
 
     /***
-     * https://cloud.google.com/bigquery/docs/creating-column-partitions#java
+     *
      * @param args
      */
     public static void main(String ... args) {

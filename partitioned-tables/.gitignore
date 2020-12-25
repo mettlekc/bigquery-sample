@@ -1,0 +1,16 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Intellij #
+.idea/
+*.iml
+*.iws
+*.eml
+out/
+
+gradle/
+.gradle/
